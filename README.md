@@ -6,3 +6,6 @@ Bad Apple played on Polytechnique Synapses
 3. Run video_to_array.py
 4. Upload the file "bit.txt" to the input form in the HTML
 5. Enjoy
+
+## Demo
+[![Bad Apple Synapses](https://img.youtube.com/vi/H5N_0ZP2XDA/0.jpg)](https://www.youtube.com/watch?v=H5N_0ZP2XDA)
