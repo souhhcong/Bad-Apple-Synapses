@@ -41,7 +41,7 @@ input.addEventListener('change', function() {
             }
             no_frame++
         }
-        setInterval(changeFrame, 33.3);
+        setInterval(changeFrame, 50);
     }
       
     fr.readAsText(this.files[0]);
